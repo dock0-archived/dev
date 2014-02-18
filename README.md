@@ -6,6 +6,8 @@ akerl/dev
 
 A development container. It's basically [akerl/arch](https://github.com/dock0/arch) with some useful packages.
 
+Useful for debugging strange network/containe happenings.
+
 ## License
 
 This repo is released under the MIT License. See the bundled LICENSE file for details.
