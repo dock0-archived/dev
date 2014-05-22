@@ -8,6 +8,26 @@ A development container. It's basically [dock0/arch](https://github.com/dock0/ar
 
 Useful for debugging strange network/container happenings.
 
+## Package List
+
+1. strace
+1. tcpdump
+1. openbsd-netcat
+1. socat
+1. htop
+1. nmap
+1. dnsutils
+1. net-tools
+1. iputils
+1. openssh
+1. screen
+1. tmux
+1. man-db
+1. net-tools
+1. lsof
+1. psmisc
+1. dnsutils
+
 ## License
 
 This repo is released under the MIT License. See the bundled LICENSE file for details.
