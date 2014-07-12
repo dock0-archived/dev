@@ -1,7 +1,7 @@
 dock0/dev
 =======
 
-[![Trusted Build](http://img.shields.io/badge/trusted-build-green.svg)](https://registry.hub.docker.com/u/dock0/dev/)
+[![Automated Build](http://img.shields.io/badge/automated-build-green.svg)](https://registry.hub.docker.com/u/dock0/dev/)
 [![MIT Licensed](http://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
 
 A development container. It's basically [dock0/arch](https://github.com/dock0/arch) with some useful packages.
