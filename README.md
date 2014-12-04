@@ -10,23 +10,25 @@ Useful for debugging strange network/container happenings.
 
 ## Package List
 
-1. strace
-1. tcpdump
-1. openbsd-netcat
-1. socat
-1. htop
-1. nmap
 1. dnsutils
-1. net-tools
+1. git
+1. htop
+1. inetutils
 1. iputils
-1. openssh
-1. screen
-1. tmux
+1. lsof
 1. man-db
 1. net-tools
-1. lsof
+1. nmap
+1. openbsd-netcat
+1. openssh
 1. psmisc
-1. dnsutils
+1. screen
+1. socat
+1. strace
+1. tcpdump
+1. tmux
+1. tree
+1. vim-minimal
 
 ## License
 
