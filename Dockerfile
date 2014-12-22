@@ -5,4 +5,4 @@ RUN pacman -S --needed --noconfirm \
     nmap dnsutils net-tools iputils openssh \
     screen tmux man-db lsof psmisc git tree \
     vim-minimal inetutils
-CMD ['/bin/bash']
+CMD ['/bin/bash', '']
