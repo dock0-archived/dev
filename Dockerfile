@@ -1,4 +1,4 @@
-FROM docker.pkg.github.com/dock0/arch/arch:20201209-5dfc610
+FROM docker.pkg.github.com/dock0/arch/arch:20201209-81fa868
 MAINTAINER akerl <me@lesaker.org>
 RUN pacman -S --needed --noconfirm \
     strace tcpdump openbsd-netcat socat htop \
